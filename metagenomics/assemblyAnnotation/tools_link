@@ -1,0 +1,29 @@
+Author: Khem
+Date: May10th, 2022
+
+Links for Metagenomic assembly-annotations
+
+1. Diamond
+https://github.com/bbuchfink/diamond/wiki/2.-Installation
+
+
+2. Contigs process
+
+a. Filter/process contigs
+https://github.com/tinybio/filter_contigs
+
+b.Removing small & low coverage contigs from a Spades assembly
+https://microsizedmind.wordpress.com/2015/03/05/removing-small-low-coverage-contigs-from-a-spades-assembly/
+
+c. Filtering Spades assembly result according to coverage information in sequence header
+https://gist.github.com/shenwei356/a94a23ce27e13056ac4a6f1758f4abb2
+
+d. Criteria for filtering contigs after spades assembly
+https://www.biostars.org/p/294053/
+
+
+
+
+
+3. Comparing and Evaluating Metagenome Assembly Tools
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169662
