@@ -4,7 +4,9 @@ MIcrobiome data analysis tool list
 https://microucph.github.io/amplicon_data_analysis/
 https://github.com/microUCPH/amplicon_data_analysis
 
-
+*** DeSeq and nice volcano plot***
+https://github.com/kevinblighe/EnhancedVolcano
+******************
 1. Differential analysis comaparation 
 #38 data gives different results with different tools, Langille Nature communication paper
 https://github.com/nearinj/Comparison_of_DA_microbiome_methods
